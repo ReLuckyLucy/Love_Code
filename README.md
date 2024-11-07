@@ -3,7 +3,7 @@
 </div>
 
 # love_code
-python实现复刻点燃我温暖你跳动爱心代码
+python实现复刻《点燃我温暖你》跳动爱心代码
 
 <div align="center">
  <img src="output\0.jpg">
